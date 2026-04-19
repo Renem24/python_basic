@@ -2,8 +2,11 @@
     "terminal.integrated.env.windows": {
         "PYTHONUTF8": "1"
     },
-    "code-runner.executorMap": {
-        "python": "set PYTHONUTF8=1 && python"
+    "terminal.integrated.env.osx": {
+        "PYTHONUTF8": "1"
+    },
+    "terminal.integrated.env.linux": {
+        "PYTHONUTF8": "1"
     },
     "code-runner.runInTerminal": true
 }
