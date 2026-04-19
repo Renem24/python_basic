@@ -1,0 +1,9 @@
+{
+    "terminal.integrated.env.windows": {
+        "PYTHONUTF8": "1"
+    },
+    "code-runner.executorMap": {
+        "python": "set PYTHONUTF8=1 && python"
+    },
+    "code-runner.runInTerminal": true
+}

@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(source .venv/Scripts/activate)",
+      "Bash(python basic_grammar/01_python_overview.py)",
+      "Bash(python basic_grammar/02_variables_and_types.py)"
+    ]
+  }
+}
